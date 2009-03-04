@@ -1,0 +1,20 @@
+
+ Lychee - A xmpp bot for twitter and many other things...
+ ========================================================
+
+ Requirements:
+ -------------
+  * Python
+  * python-twitter-tools
+  * xmpppy
+
+ TODO:
+ -----
+  * merge ircbot and xbot
+  * connect twitter and xmpp
+  * archive twitter updates (xml or sqlite)
+  * url/bookmark store and forward
+
+ Done:
+ -----
+  * Directory layout
